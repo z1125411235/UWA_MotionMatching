@@ -1,0 +1,8 @@
+版本:Unity 2019.2.17f1
+
+UWA網址__https://lab.uwa4d.com/lab/5cd0e4c272745c25a8379506?fbclid=IwAR02zrjm6_HSr477uD_To-vmfLHFEhxkbG4gQ9dlbtukz8t7r6RgrqqiOxk
+
+官方Github網址__https://github.com/nashnie/MotionMatching
+
+本人Github網址__https://github.com/z1125411235/MotionMatching
+
